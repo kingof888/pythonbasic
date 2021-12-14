@@ -1,5 +1,6 @@
-person1 = {
-  "name": "John",
-  "age": 36,
-  "country": "Norway"
+def my_funtion(): 
+    print("hello ")
+person = { 
+    "name" : "John",
+    "age": 36
 }
